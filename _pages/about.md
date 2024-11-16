@@ -42,7 +42,7 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
   - Major: Data Science and Big Data Technology
     - Selected courses: Statistical Analysis(96), Machine Learning(93), Computer Graphics(94), Cryptography(90), Nature Language Processing(93)
   - Double Major: Mathematics and Applied Mathematics
-    - Selected courses: Mathematical Analysis, Advanced Algebra, Real Analysis, Ordinary Differential Equations, Partial Differential Equations, Topology 
+    - Selected courses: Mathematical Analysis, Advanced Algebra, Real Analysis, Ordinary Differential Equations, Partial Differential Equations, Topology
 
 <a id="projects"></a>
 
