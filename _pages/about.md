@@ -26,7 +26,7 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
 
 <a id="honors-and-awards"></a>
 
-🏆 Honers and Awards
+🏆 Honors and Awards
 ======
 - Outstanding Graduates of Chongqing University, 2024
 - CQU First Prize Scholarship, 2022
@@ -44,10 +44,12 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
   - Double Major: Mathematics and Applied Mathematics
     - Selected courses: Mathematical Analysis, Advanced Algebra, Real Analysis, Ordinary Differential Equations, Partial Differential Equations, Topology 
 
-<a id="research-and-internships"></a>
+<a id="projects"></a>
 
 🔧 Projects
 ======
+
+<a id="research-and-internships"></a>
 
 💻 Research and Internships
 ======
