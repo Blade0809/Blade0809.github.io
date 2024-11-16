@@ -8,9 +8,18 @@ main:
 
   - title: "About me"
     url: /#about-me
+
+  - title: "News"
+    url: /#news
     
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Honers and Awards"
+    url: /#honers-and-awards
+
+  - title: "Projects"
+    url: /#projects
     
-  - title: "CV"
-    url: /cv/
+  - title: "Educations"
+    url: /#educations
+
+  - title: "Research and Internships"
+    url: /#research-and-internships
