@@ -49,6 +49,32 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
 🔧 Projects
 ======
 
+<!-- 第一个项目 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- 左侧图片 -->
+  <div style="flex: 1; padding-right: 20px;">
+    <img src="images/UTViz.png" alt="Project Image 1" style="width: 100%; border: 1px solid #ddd; border-radius: 5px;">
+  </div>
+  <!-- 右侧文字 -->
+  <div style="flex: 2;">
+    <h3 style="margin: 0;">A visualization platform of city intersection traffic situation. It constructs a visual analysis system for displaying urban intersection traffic situations using 3D modeling and information visualization technologies.</h3>
+      <a href="[link-to-project](https://github.com/Blade0809/UTViz)">[project]</a>
+    </p>
+  </div>
+</div>
+
+<!-- 第二个项目 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- 左侧图片 -->
+  <div style="flex: 1; padding-right: 20px;">
+    <img src="images/QTYVis.png" alt="Project Image 2" style="width: 100%; border: 1px solid #ddd; border-radius: 5px;">
+  </div>
+  <!-- 右侧文字 -->
+  <div style="flex: 2;">
+    <h3 style="margin: 0;">This system utilizes a graphical interactive approach to present hierarchical information, enabling users to quickly grasp product hierarchy information and select specific products.</h3>
+  </div>
+</div>
+
 <a id="research-and-internships"></a>
 
 💻 Research and Internships
