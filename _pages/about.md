@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<a id="about-me"></a>
+♌️ ## About me
 I am a fourth year undergraduate student from [The School of Big Data and Software Engineering](http://www.cse.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn). Nowadays I am a visiting student at [Visual & Data Intelligence Center](https://vdi.sist.shanghaitech.edu.cn/), [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interest includes diffusion models, reinforcement learning, optimization and control. Recently, I focus on gradient guidance in diffusion models from a mathematical perspective.
 
 A data-driven personal website
