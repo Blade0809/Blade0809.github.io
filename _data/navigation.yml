@@ -14,12 +14,12 @@ main:
     
   - title: "Honors and Awards"
     url: /#honors-and-awards
-
-  - title: "Projects"
-    url: /#projects
     
   - title: "Educations"
     url: /#educations
+
+  - title: "Projects"
+    url: /#projects
 
   - title: "Research and Internships"
     url: /#research-and-internships
