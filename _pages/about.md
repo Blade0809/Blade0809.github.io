@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a fourth year undergraduate student from [The School of Big Data and Software Engineering](http://www.cse.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn). Nowadays I am a visiting student at [Visual & Data Intelligence Center](https://vdi.sist.shanghaitech.edu.cn/), [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interest includes diffusion models, reinforcement learning, optimization and control. Recently, I focuse on gradient guidance in diffusion models from a mathematical perspective.
 
 A data-driven personal website
 ======
