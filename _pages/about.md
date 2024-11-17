@@ -20,7 +20,7 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
 - 2024.10 🎉I was selected as Outstanding Graduates of Chongqing University!
 - 2024.8 I won second prize in Chinese Collegiate Computing Competition.
 - 2023.11 I won first prize in 15th Chinese Mathimatical Competition.
-- 2023.3 🎉I won CQU First Prize Scholarship!
+- 2023.3 🎉I won CQU First-Class Scholarship!
 - 2023.3 I won first prize in 14th Chinese Mathimatical Competition.
 
 
