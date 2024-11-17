@@ -86,6 +86,5 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
 
 🌏 Visitor Map
 ======
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5CgPTCKeOEhAyGECFtoyK31Jw6QYlgVxPt2BVfjkZJs"></script>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=5CgPTCKeOEhAyGECFtoyK31Jw6QYlgVxPt2BVfjkZJs&co=d7e8f5&cmo=53d6ff'></script>
 
