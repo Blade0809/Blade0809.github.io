@@ -82,3 +82,10 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
 - 2024.9 - now, Visiting Student in YesAI Lab, [VDI Center](https://vdi.sist.shanghaitech.edu.cn/) at ShanghaiTech University, Advisor: [Prof. Ye Shi(石野)](https://shiye21.github.io/)
 - 2022.2 - now, Lab Student in [CPSDSC](https://cps.cqu.edu.cn/kydw/xrld.htm), Advisor: [Prof. Haibo Hu(胡海波)](http://www.cse.cqu.edu.cn/info/2095/5360.htm)
 
+<a id="visitor-map"></a>
+
+🌏 Visitor Map
+======
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+
+
