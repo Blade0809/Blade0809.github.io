@@ -29,7 +29,7 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
 🏆 Honors and Awards
 ======
 - Outstanding Graduates of Chongqing University, 2024
-- CQU First Prize Scholarship, 2022
+- CQU First-Class Scholarship, 2022
   - Highest scholarship at Chongqing University (Top 3%)
 
 <a id="educations"></a>
@@ -57,7 +57,7 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
   </div>
   <!-- 右侧文字 -->
   <div style="flex: 2;">
-    <h3 style="margin: 0;">A visualization platform of city intersection traffic situation. It constructs a visual analysis system for displaying urban intersection traffic situations using 3D modeling and information visualization technologies.</h3>
+    <h4 style="margin: 0;">A visualization platform of city intersection traffic situation. It constructs a visual analysis system for displaying urban intersection traffic situations using 3D modeling and information visualization technologies.</h4>
       <a href="[link-to-project](https://github.com/Blade0809/UTViz)">[project]</a>
   </div>
 </div>
@@ -70,7 +70,7 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
   </div>
   <!-- 右侧文字 -->
   <div style="flex: 2;">
-    <h3 style="margin: 0;">This system utilizes a graphical interactive approach to present hierarchical information, enabling users to quickly grasp product hierarchy information and select specific products.</h3>
+    <h4 style="margin: 0;">This system utilizes a graphical interactive approach to present hierarchical information, enabling users to quickly grasp product hierarchy information and select specific products.</h4>
   </div>
 </div>
 
