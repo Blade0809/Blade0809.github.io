@@ -16,8 +16,8 @@
         url('../fonts/fa-brands-400.svg') format('svg');
 }
 .ai {
-  font-family: 'fa-brands-400';
-  font-weight: 400;
+  font-family: 'fa-brands-400' !important;
+  font-weight: 400 !important;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   display: inline-block;
