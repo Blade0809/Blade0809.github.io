@@ -17,29 +17,26 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
 
 🔥 News
 ======
-<style>
-@keyframes colorChange {
-  0% { color: red; }
-  25% { color: orange; }
-  50% { color: green; }
-  75% { color: blue; }
-  100% { color: purple; }
-}
-
-@keyframes shake {
-  0% { transform: translate(0, 0); }
-  25% { transform: translate(-5px, 0); }
-  50% { transform: translate(5px, 0); }
-  75% { transform: translate(-5px, 0); }
-  100% { transform: translate(0, 0); }
-}
-
-.colorful-shake {
+<p style="
   animation: colorChange 2s infinite, shake 0.5s infinite;
-}
-</style>
+  @keyframes colorChange {
+    0% { color: red; }
+    25% { color: orange; }
+    50% { color: green; }
+    75% { color: blue; }
+    100% { color: purple; }
+  }
+  @keyframes shake {
+    0% { transform: translate(0, 0); }
+    25% { transform: translate(-5px, 0); }
+    50% { transform: translate(5px, 0); }
+    75% { transform: translate(-5px, 0); }
+    100% { transform: translate(0, 0); }
+  }
+">
+I am actively seeking for a Ph.D. position!
+</p>
 
-🙋<p class="colorful-shake">I am actively seeking for a Ph.D. position!</p>
 - 2024.10 🎉I was selected as Outstanding Graduates of Chongqing University!
 - 2024.8 I won second prize in Chinese Collegiate Computing Competition.
 - 2023.11 I won first prize in 15th Chinese Mathimatical Competition.
