@@ -15,5 +15,5 @@
   }
   
   .colorful-shake {
-    animation: colorChange 2s infinite, shake 0.5s infinite;
+    animation: colorChange 2s infinite, shake 1.5s infinite;
   }
