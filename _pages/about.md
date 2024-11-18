@@ -63,7 +63,7 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
   <div style="flex: 2;">
     <h4 style="margin: 0;">A visualization platform of city intersection traffic situation. It constructs a visual analysis system for displaying urban intersection traffic situations using 3D modeling and information visualization technologies.</h4>
       <a href="[link-to-project](https://github.com/Blade0809/UTViz)">[project]</a>
-      <a href="[link-to-project]([https://github.com/Blade0809/UTViz](https://github.com/Blade0809/Blade0809.github.io/edit/master/_pages/UTViz.pdf))">[slides]</a>
+      <a href="[link-to-project](https://blade0809.github.io/assets/files/resume.pdf)">[slides]</a>
   </div>
 </div>
 
