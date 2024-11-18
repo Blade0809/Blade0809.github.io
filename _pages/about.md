@@ -21,7 +21,7 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
 
 <p class="colorful-shake">🙋I am actively seeking for a Ph.D. position!</p>
 
-- 2024.10 🎉I was selected as Outstanding Graduates of Chongqing University!
+- 2024.10 🎉I was selected as Outstanding Graduate of Chongqing University!
 - 2024.8 I won second prize in Chinese Collegiate Computing Competition.
 - 2023.11 I won first prize in 15th Chinese Mathimatical Competition.
 - 2023.3 🎉I won CQU First-Class Scholarship!
@@ -32,7 +32,7 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
 
 🏆 Honors and Awards
 ======
-- Outstanding Graduates of Chongqing University, 2024
+- Outstanding Graduate of Chongqing University, 2024
 - CQU First-Class Scholarship, 2022
   - Highest scholarship at Chongqing University (Top 3%)
 
