@@ -17,9 +17,6 @@ I am a fourth year undergraduate student from [The School of Big Data and Softwa
 
 🔥 News
 ======
-<link rel="stylesheet" href="assets/css/style.css">
-
-<p class="colorful-shake">🧑‍💻I am actively preparing for a Ph.D. position.</p>
 
 - 2024.10 🎉I was selected as Outstanding Graduate of Chongqing University!
 - 2024.8 I won second prize in Chinese Collegiate Computing Competition.
