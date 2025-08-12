@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-🎓Graduate from Chongqing University with a bachelor's degree(Outstanding Undergraduate Student).
+🎓Graduate from Chongqing University with 2 bachelor's degrees(Outstanding Undergraduate Student).
 
