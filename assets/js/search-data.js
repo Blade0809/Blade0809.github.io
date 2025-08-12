@@ -379,16 +379,14 @@ ninja.data = [{
             window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
           
         },
-      },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+      },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-first-class-scholarship-of-chongqing-university",
           title: '🎉First-Class Scholarship of Chongqing University',
+          description: "",
+          section: "News",},{id: "news-graduate-from-chongqing-university-with-a-bachelor-s-degree-outstanding-undergraduate-student",
+          title: '🎓Graduate from Chongqing University with a bachelor’s degree(Outstanding Undergraduate Student).',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
