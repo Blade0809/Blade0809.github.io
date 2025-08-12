@@ -379,11 +379,11 @@ ninja.data = [{
             window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
           
         },
-      },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-first-class-scholarship-of-chongqing-university",
+      },{id: "news-first-class-scholarship-of-chongqing-university",
           title: '🎉First-Class Scholarship of Chongqing University',
+          description: "",
+          section: "News",},{id: "news-start-my-research-at-shanghaitech",
+          title: '💻Start my research at Shanghaitech.',
           description: "",
           section: "News",},{id: "news-graduate-from-chongqing-university-with-2-bachelor-s-degrees-outstanding-undergraduate-student",
           title: '🎓Graduate from Chongqing University with 2 bachelor’s degrees(Outstanding Undergraduate Student).',
