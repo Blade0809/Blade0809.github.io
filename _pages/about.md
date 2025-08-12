@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Liu Liu
 permalink: /
 
 profile:
